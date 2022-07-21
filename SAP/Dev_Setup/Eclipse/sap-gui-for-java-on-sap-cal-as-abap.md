@@ -1,6 +1,6 @@
 # Use SAP GUI for Java on SAP CAL AS ABAP
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiforjava.png" width="25%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiforjava.png" width="12%">
 
 ## Note
 
@@ -24,11 +24,11 @@ Logon: developer
 Password: <as specified on creation of the SAP CAL instance>
 ```
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/connectionprops.png" width="80%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/connectionprops.png" width="40%">
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapcal.png" width="80%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapcal.png" width="50%">
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiport.png" width="80%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiport.png" width="50%">
 
 ## References
 

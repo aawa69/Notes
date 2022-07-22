@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapcalimg.png" width="12%">
 
-**&#9888; Caution**
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/caution.svg" width="20%">
 
 - Note the password used on creation of CAL instance
 - Will be required to access the SAP system from ADT later on!!

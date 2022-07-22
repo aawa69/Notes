@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiforjava.png" width="12%">
 
-**&#9888; Caution**
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/caution.png" width="20%">
 
 - Ensure you're running a `DEV` instance &#10148; allow installation of a minisap license
 - `TRIAL` and other types of instances will expect you to bring your own license  

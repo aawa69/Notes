@@ -13,7 +13,7 @@
 
 - Create a `New Connection`
 - Navigate to the `Advanced` tab and select the `Expert Settings` checkbox
-- Enter the connection string using the:
+- Enter the connection string using:
   - Linux External IP Address ➡︎ under `Info` tab
   - `SAP GUI` Service port number ➡︎ under `Virtual Machines` tab (usually 3200)
 

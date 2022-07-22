@@ -1,6 +1,6 @@
 # Setup VSCode for BTP and UI5 Development
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/vscodebtpui5.png"  width="15%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/vscodebtpui5.png"  width="20%">
 
 ### References
 
@@ -71,6 +71,8 @@ brew install cloudfoundry/tap/cf-cli
 cds --version
 ```
 
+* * * * *
+
 ### Install Cloud MTA Build Tool
 
 - [The Multi-Target Model](https://www.sap.com/documents/2016/06/e2f618e4-757c-0010-82c7-eda71af511fa.html)
@@ -100,11 +102,11 @@ npm install -g mta
 - F1 &#10148; _shell command_ &#10148; _Install 'code' command in PATH_
 - Add Extensions
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5tools.png"  width="45%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5tools.png"  width="40%">
 
 - For UI5 development
 
-<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5langassist.png"  width="45%">
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5langassist.png"  width="40%">
 
 * * * * *
 

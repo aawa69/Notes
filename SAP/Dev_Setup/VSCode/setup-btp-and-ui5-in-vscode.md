@@ -106,6 +106,8 @@ npm install -g mta
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5langassist.png"  width="45%">
 
+* * * * *
+
 ### Install Yeoman &#10148; UI5 Development
 
 ```bash
@@ -118,6 +120,8 @@ npm install -g generator-easy-ui5
 
 - Use _F1 ➤ Fiori: Open Application Generator_ to quick start UI5
 
+* * * * *
+
 ### Install UI5 Tooling &#10148; UI5 Cli
 
 ```bash
@@ -125,6 +129,8 @@ ui5 --version
 
 npm install -g @ui5/cli
 ```
+
+* * * * *
 
 ### UI5 Bootstrapping &#10148; New Project
 
@@ -159,6 +165,8 @@ ncu -u
 
 npm install
 ```
+
+* * * * *
 
 ### Add Code Assist via Typescript to UI5 Project
 
@@ -198,6 +206,8 @@ npm install --save-dev eslint @sap/eslint-plugin-ui5-jsdocs @sapui5/ts-types
   ]
 }
 ```
+
+* * * * *
 
 ### UI5 &#10148; Using a Proxy for Remote Services
 

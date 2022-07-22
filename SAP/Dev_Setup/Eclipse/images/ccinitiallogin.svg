@@ -29,8 +29,8 @@
 			</style>
 			<div class="container">
                 <h3>Initial Logon:</h3>
-				<p>User: <span>Administrator</span>➤ is case sensitive</p>
-                <p>Password: <span>manage</span>➤ default value (change)</p>
+				<p>User: <span>Administrator</span>➤ case sensitive</p>
+                <p>Password: <span>manage</span>➤ default value (requires change)</p>
 			</div>
 		</div>
 	</foreignObject>

@@ -22,6 +22,7 @@
 				}
 			</style>
 			<div class="container">
+                <p>Client: <span>001</span></p>
 				<p>Logon: <span>developer</span></p>
                 <p>Password: <span>&#10094; as spec'd on creation of the SAP CAL instance &#10095;</span></p>
 			</div>

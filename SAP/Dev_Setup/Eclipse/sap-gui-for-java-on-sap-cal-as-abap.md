@@ -2,10 +2,15 @@
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapguiforjava.png" width="12%">
 
-## Note
+**&#9888; Caution**
 
 - Ensure you're running a `DEV` instance &#10148; allow installation of a minisap license
 - `TRIAL` and other types of instances will expect you to bring your own license  
+
+## Overview
+
+- Follow this guide to connect to the GUI of a SAP CAL ABAP instance
+- If required, can also use MS Remote Desktop to connect &#10148; use the _SAP Frontend External IP_ (get from SAP CAL instance)
 
 ## Connect to a (remote) SAP CAL system system
 

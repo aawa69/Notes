@@ -6,23 +6,23 @@
 
 To access Cloud Connector from the browser, configure SAP CAL with port 8443;
 
-    https://<_Linux External IP Address_>:<_Cloud Connector Port_>
+    https://<Linux External IP Address>:<Cloud Connector Port>
 
     https://3.92.143.219:8443   ➤ example
 
-<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_setup/Eclipse/images/sapcalinstance.png" width="45%">
+<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapcalinstance.png" width="45%">
 
-<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_setup/Eclipse/images/ccport.png" width="45%">
+<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/ccport.png" width="45%">
 
 ### Configure SAP Cloud Connector
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/ccinitiallogin.svg"  width="50%">
 
-<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_setup/Eclipse/images/ccloginpage.png" width="45%">
+<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/ccloginpage.png" width="45%">
 
-<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_setup/Eclipse/images/ccoverview.png" width="45%">
+<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/ccoverview.png" width="45%">
 
-<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_setup/Eclipse/images/ccmapping.png" width="45%">
+<img src="<https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/ccmapping.png" width="45%">
 
 ## References
 

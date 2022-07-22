@@ -1,5 +1,7 @@
 # Connect to SAP CAL AS ABAP
 
+<img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/sapcalimg.png" width="12%">
+
 **&#9888; Caution**
 
 - Note the password used on creation of CAL instance

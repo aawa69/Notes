@@ -19,17 +19,8 @@
 
 ## Credentials
 
-<style>
-    .indent {
-        margin-left: 20px;
-     }
-    .highlight {
-        color: #7FE787;
-    }
-</style>
-
-<p class="indent">Logon: <span class="highlight">developer</span></p>
-<p class="indent">Password: <<span class="highlight">as specified on creation of the SAP CAL instance</span>></p>
+<p style="margin-left: 20px">Logon: <span style="color: #7FE787">developer</span></p>
+<p style="margin-left: 20px">Password: <<span style="color: #7FE787">as specified on creation of the SAP CAL instance</span>></p>
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/connectionprops.png" width="40%">
 

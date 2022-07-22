@@ -16,13 +16,13 @@
 
 - [Installing Node, NPM, NVM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [Update Node Version](https://phoenixnap.com/kb/update-node-js-version)
-- [NVM Reference](evernote:///view/22287029/s194/57aceb2f-260d-4ba7-97f6-9764607cbb96/9726ee1c-1a28-4702-8053-96e8e6e6faf7/)
+- [NVM Reference](https://github.com/aawa69/Notes/blob/main/References/Node/nvm-cheatsheet.md)
 - [Cloud MTA Build Tool](https://sap.github.io/cloud-mta-build-tool/download/)
 - [VSCode MTA Tools](https://github.com/SAP/vscode-mta-tools)
 
 * * * * *
 
-### Git
+### Install Git
 
 - [Download Git](https://git-scm.com/downloads)
 - [What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
@@ -32,7 +32,9 @@
 git version
 ```
 
-### Node/NPM
+* * * * *
+
+### Install Node & NPM
 
 ```bash
 node --version      # what node installed
@@ -49,7 +51,9 @@ nvm install x.x.x   # install specific version
 nvm use x.x.x       # switch to version
 ```
 
-### CloudFoundry
+* * * * *
+
+### Install CloudFoundry CLI
 
 ```bash
 cf --version
@@ -59,13 +63,15 @@ brew --version
 brew install cloudfoundry/tap/cf-cli
 ```
 
+* * * * *
+
 ### CDS
 
 ```bash
 cds --version
 ```
 
-### Cloud MTA Build Tool
+### Install Cloud MTA Build Tool
 
 - [The Multi-Target Model](https://www.sap.com/documents/2016/06/e2f618e4-757c-0010-82c7-eda71af511fa.html)
 
@@ -87,6 +93,8 @@ cf install-plugin multiapps # Multiapps plugin for MTA
 npm install -g mta
 ```
 
+* * * * *
+
 ### VSCode
 
 - F1 &#10148; _shell command_ &#10148; _Install 'code' command in PATH_
@@ -98,7 +106,7 @@ npm install -g mta
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/VSCode/images/ui5langassist.png"  width="45%">
 
-### Yeoman &#10148; UI5 Development
+### Install Yeoman &#10148; UI5 Development
 
 ```bash
 yo --version
@@ -110,7 +118,7 @@ npm install -g generator-easy-ui5
 
 - Use _F1 ➤ Fiori: Open Application Generator_ to quick start UI5
 
-### UI5 Tooling &#10148; UI5 Cli
+### Install UI5 Tooling &#10148; UI5 Cli
 
 ```bash
 ui5 --version
@@ -191,7 +199,7 @@ npm install --save-dev eslint @sap/eslint-plugin-ui5-jsdocs @sapui5/ts-types
 }
 ```
 
-### UI5 - Using a Proxy for Remote Services
+### UI5 &#10148; Using a Proxy for Remote Services
 
 - See [UI5 Tooling - A Modern Development Experience for UI5](https://blogs.sap.com/2020/04/07/ui5-tooling-a-modern-development-experience-for-ui5/)
 - Using a Proxy (refer to the linked doc above)

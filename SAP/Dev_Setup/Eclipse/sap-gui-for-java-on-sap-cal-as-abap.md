@@ -9,13 +9,13 @@
 
 ## Connect to a (remote) SAP CAL system system
 
-- Install SAP GUI for Java ⇒ see blog [Notes on Installing SAPGUI for Java for MacOS](https://blogs.sap.com/2022/03/04/notes-on-installing-sapgui-for-java-for-macos/)
+- Install SAP GUI for Java ➡︎ see blog [Notes on Installing SAPGUI for Java for MacOS](https://blogs.sap.com/2022/03/04/notes-on-installing-sapgui-for-java-for-macos/)
 
 - Create a `New Connection`
-- Navigate to the `Advanced` tab and select the `Expert Mode` checkbox
+- Navigate to the `Advanced` tab and select the `Expert Settings` checkbox
 - Enter the connection string using the:
-  - Linux External IP Address ⇒ under `Info` tab
-  - `SAP GUI` Service port number ⇒ under `Virtual Machines` tab (usually 3200)
+  - Linux External IP Address ➡︎ under `Info` tab
+  - `SAP GUI` Service port number ➡︎ under `Virtual Machines` tab (usually 3200)
 
 ## Credentials
 

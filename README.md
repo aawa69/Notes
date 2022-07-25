@@ -11,6 +11,7 @@
     - [Setup Cloud Connector for SAP CAL ABAP AS](https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/setup-cloud-connector-for-sap-cal-as-abap.md)
     - [Connecting Eclipse to SAP CAL ABAP AS](https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/connect-to-sap-cal-as-abap.md)
     - [Connect to Cloud Foundry ABAP Instance](https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/connect-to-cloud-foundry-abap-instance.md)
+    - [Setup abapGit on SAP CAL ABAP AS](https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/setup-abapgit-on-sap-cal-as-abap.md)
 
 ## References / How-Tos
 

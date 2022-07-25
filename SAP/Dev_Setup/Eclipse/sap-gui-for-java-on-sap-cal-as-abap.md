@@ -19,10 +19,12 @@
 - Create a `New Connection`
 - Navigate to the `Advanced` tab and select the `Expert Settings` checkbox
 - Enter the connection string using:
-  - Linux External IP Address &#10148; under `Info` tab
+  - _Linux External IP Address_ &#10148; under `Info` tab
   - `SAP GUI` Service port number &#10148; under `Virtual Machines` tab (usually 3200)
 
 ## Credentials
+
+If using the instance for the first time, see the _Getting Started_ guide for initial logon & installation of minisap license 
 
 <img src="https://github.com/aawa69/Notes/blob/main/SAP/Dev_Setup/Eclipse/images/login.svg"  width="50%">
 

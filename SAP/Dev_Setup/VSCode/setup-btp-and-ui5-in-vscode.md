@@ -90,7 +90,7 @@ npm install --global gnumake
 
 npm install -g mbt
 
-cf install-plugin multiapps # Multiapps plugin for MTA
+cf install-plugin multiapps     # Multiapps plugin for MTA
 
 npm install -g mta
 ```
@@ -117,10 +117,32 @@ yo --version
 
 npm install -g yo
 
-npm install -g generator-easy-ui5 
+yo --help                   
+yo --generators                 # list installed generators
 ```
 
-- Use _F1 ➤ Fiori: Open Application Generator_ to quick start UI5
+### UI5 Application Generator &#10148; easy-ui5
+
+```bash
+npm install -g generator-easy-ui5 
+
+# Bootstrapping ...
+yo easy-ui5                     # ⌥C to exit generator
+
+# ..or 
+
+F1 ➤ Fiori: Open Application Generator_ to quick start UI5
+
+# Generators
+yo easy-ui5 [project|library] --list
+yo easy-ui5 [project|library] <sub-generator-id>
+
+# Sub Generators
+yo easy-ui5:newview             # add view and controller
+yo easy-ui5:newcontrol          # add custom control
+yo easy-ui5:newmodel            # add new model to manifest  (JSON or OData v2)
+yo easy-ui5:newcomponentusage   # add component usage to manifest
+```
 
 * * * * *
 
@@ -134,7 +156,7 @@ npm install -g @ui5/cli
 
 * * * * *
 
-### UI5 Bootstrapping &#10148; New Project
+### CAP Bootstrapping &#10148; New Project
 
 - See the [UI5 Tooling Getting Started](https://sap.github.io/ui5-tooling/pages/GettingStarted/) page for details
 - See [UI5 Tooling - A Modern Development Experience for UI5](https://blogs.sap.com/2020/04/07/ui5-tooling-a-modern-development-experience-for-ui5/)
